@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css2?family=Pattaya&family=Poppins:wght@400;500&display=swap);
+// ---- COLORS ----
+
+$dark-primary-color: #303F9F;
+$light-primary-color: #C5CAE9;
+$primary-color: #3F51B5;
+$text-icons-color: #FFFFFF;
+$accent-color: #7C4DFF;
+$primary-text-color: #212121;
+$secondary-text-color: #757575;
+$divider-color: #BDBDBD;
+$background-color: rgba(255, 255, 255, 0);
+
+// ---- FONTS ----
+$primary-font: 'Poppins', sans-serif;
+$normal-size: 16px;
+$larger-size: 26px;
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: $text-icons-color;
+    font-family: $primary-font;
+}

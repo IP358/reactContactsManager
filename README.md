@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Shortcomings:
+Could use same logic when editing contact's id and when creating a new contact and id is a dublicate. As of now, if a new contact with an already existing id is submitted, the previous contact is overwritten without informing the user.
+
 ## Available Scripts
 
 In the project directory, you can run:

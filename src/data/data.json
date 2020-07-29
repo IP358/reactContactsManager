@@ -1,0 +1,52 @@
+{
+    "contacts": [
+        {
+            "fName":"John",
+            "lName":"White",
+            "phoneNumber":"02253680612",
+            "email":"john.white@gmail.com",
+            "address":"16 Mangrove Lane",
+            "id": "02253680612john.white@gmail.com"
+        },
+        {
+            "fName":"Henry",
+            "lName":"Slitherland",
+            "phoneNumber":"3856748231",
+            "email":"henry5654544@gmail.com",
+            "address":"33 prowerbs streer",
+            "id":"3856748231henry5654544@gmail.com"
+        },
+        {
+            "fName":"Mathew",
+            "lName":"Slack",
+            "phoneNumber":"23123588564",
+            "email":"memathew4453@gmail.com",
+            "address":"Trafalgar Square 25A",
+            "id":"23123588564memathew4453@gmail.com"
+        },
+        {
+            "fName":"Nina",
+            "lName":"Trinder",
+            "phoneNumber":"66445775545",
+            "email":"trinder.nina@gmail.com",
+            "address":"My Home Town 2442",
+            "id":"66445775545trinder.nina@gmail.com"
+        },
+        {
+            "fName":"Tashew",
+            "lName":"Hamster",
+            "phoneNumber":"232123222",
+            "email":"hammy@gmail.com",
+            "address":"Guildford Central 16",
+            "id":"232123222hammy@gmail.com"
+        },
+        {
+            "fName":"Craig",
+            "lName":"Ingot",
+            "phoneNumber":"22221122",
+            "email":"speed@gmail.com",
+            "address":"London bakerley 75",
+            "id":"22221122speed@gmail.com"
+        }
+    ] 
+}
